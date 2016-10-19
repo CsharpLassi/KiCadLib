@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP4921
+D 12BIt DAC
+$ENDCMP
+#
+#End Doc Library
